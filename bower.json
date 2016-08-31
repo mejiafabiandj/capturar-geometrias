@@ -1,0 +1,13 @@
+{
+  "name": "webapp",
+  "version": "0.0.0",
+  "dependencies": {
+    "leaflet": "0.7.7"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "appPath": "app",
+  "moduleName": "webappApp"
+}
